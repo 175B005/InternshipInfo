@@ -27,12 +27,12 @@
 
 ####  見た企業
 
-- [ランド・ホー]()  
-- [DeNA]()  
-- [ワンダープラネット]()  
-- [ヘキサドライブ]()  
-- [カプコン]()  
-- [テクロス]()  
-- [Aiming]()  
-- [ユークス]()  
-- [コロプラ]()  
+- [ランド・ホー](https://www.landho.co.jp/)  
+- [DeNA](http://dena.com/jp/company/)  
+- [ワンダープラネット](http://wonderpla.net/)  
+- [ヘキサドライブ](https://hexadrive.jp/)  
+- [カプコン](http://www.capcom.co.jp/)  
+- [テクロス](https://www.green-japan.com/)  
+- [Aiming](https://aiming-inc.com/ja/)  
+- [ユークス](https://www.yukes.co.jp/)  
+- [コロプラ](http://colopl.co.jp/index.php)  
