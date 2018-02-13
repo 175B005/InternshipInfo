@@ -18,7 +18,7 @@
 
 --- 
 
-## [ITxゲーム業界フォーラム]()  
+## [ITxゲーム業界フォーラム](https://www.gakujo.ne.jp/2019/company/cmp_baseinfo.aspx?p1=19861)  
 
 ![](https://raw.githubusercontent.com/175B005/InternshipInfo/master/DSC_0004.JPG)
 
